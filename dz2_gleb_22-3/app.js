@@ -1,4 +1,4 @@
-var day = "friday"
+var day = "hjwr"
 switch (day){
     case "Monday":
     case "monday":
@@ -28,6 +28,8 @@ switch (day){
     case "sunday":
         console.log("воскресенье");
         break;
+    default:
+        console.log("неизвестный день")
 }
 
 var TVInfo = {
